@@ -1,108 +1,109 @@
-# 👋 MIAB (Make It All Back)
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-org/miab-banner.png" alt="MIAB — Make It All Back" width="100%" />
+</p>
 
-<div align="center">
-  
-![Profile Header](https://img.shields.io/badge/MIAB-Make%20It%20All%20Back-purple?style=for-the-badge)
-  
-**From Belief to Build | From Cope to Creation**
-  
-[![GitHub](https://img.shields.io/badge/GitHub-makeitallback-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/makeitallback)
+<h1 align="center">MIAB — Make It All Back</h1>
+<p align="center">
+  From degen chaos to collective creation. Bonding curve ➜ Debase ➜ Vaults ➜ Tools.
+</p>
 
-</div>
-
----
-
-## 💎 About Me
-
-Hey there! I'm MIAB, a builder in the Ethereum ecosystem. I create smart contracts and work on projects that make a difference in the decentralized world.
-
-> "Make It All Back" - Building the future, one contract at a time 💪
+<p align="center">
+  <a href="https://discord.gg/TODO"><img src="https://img.shields.io/discord/TODO?label=Discord&logo=discord&logoColor=white" /></a>
+  <a href="https://x.com/TODO"><img src="https://img.shields.io/badge/Follow-@MIAB__Token-black?logo=x" /></a>
+  <a href="https://miab.xyz"><img src="https://img.shields.io/badge/Website-miab.xyz-111111" /></a>
+  <a href="https://docs.miab.xyz"><img src="https://img.shields.io/badge/Docs-docs.miab.xyz-0b7285" /></a>
+  <a href="https://monad.xyz"><img src="https://img.shields.io/badge/Chain-Monad-6c2bd9" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌍 What is MIAB?
 
-### Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-0.8.24-363636?style=flat-square&logo=solidity)
-![Hardhat](https://img.shields.io/badge/Hardhat-FF6C37?style=flat-square&logo=hardhat&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-EFEFEF?style=flat-square&logoColor=black)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square)
+**MIAB (Make It All Back)** is a community-driven token and builder movement.  
+It turns the “we’ll make it back” meme into a flywheel of **real products** and **acquired dApps** that all **use MIAB for access and fees**.
 
-### Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- We **launch** via a bonding curve.
+- We **debase** supply continuously on-chain (~4.32%/day).
+- We offer **vaults** for protection, staking/rebirth, and LP participation.
+- We **build & acquire** tools that accept MIAB, and recycle revenue into **buybacks** and **new teams**.
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Core Mechanics
 
-<div align="center">
-  
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=makeitallback&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeitallback&layout=compact&langs_count=8&theme=radical"/>
+- **Bonding Curve (Genesis):** Early participants mint through an x·y=k pool until target depth; then liquidity is paired and trading opens.
+- **Debase Engine:** Supply shrinks by ~0.00002%/block (≈4.32% daily). Decay applies proportionally to wallets, LP, and vault balances.
+- **Vaults:**
+  - **Sanctum (Protected):** Deposit → withdraw same amount after 24h; immune to decay.
+  - **Rebirth (Staking):** Accept decay; earn a portion of daily “reborn” emissions.
+  - **Builder/LP Vault:** Stake LP; earn from the rebirth pool while supporting market depth.
+- **Sell-Gate Governance (Genesis):** Holders who buy via the curve vote to enable/disable sell. Selling burns your voting power.
 
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### [MIAB - Make It All Back](https://github.com/makeitallback/MIAB)
-🔒 **Smart contract for secure asset management**
-
-- ✨ Secure ownership transfers
-- 💰 Token minting capabilities
-- ⚡ Gas-optimized transfers
-- ✅ Comprehensive test coverage
-
-![MIAB](https://img.shields.io/badge/MIAB-Active-success?style=flat-square)
+> **Formula:** `multiplier = multiplier * (1 - rate) ^ blocksElapsed`
 
 ---
 
-## 📈 Current Focus
+## 🧰 MIAB Tool Ecosystem
 
-<div align="center">
+Every product accepts **MIAB** for access. Revenue flows to **buybacks** and the **Builder Treasury** to fund more tools and acquisitions.
 
-![Currently Working On](https://img.shields.io/badge/Currently%20Working%20On-MIAB%20Contract-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge)
+### 🪙 MIABPAD — DAO Launchpad (Phase 1)
+Community-governed launches (fair or bonding-curve), automated LP pairing, and on-chain approvals using MIAB.
+- **Fees:** Paid in MIAB → **buybacks** + treasury funding.
 
-</div>
+### 📊 MIAB PORTFOLIO — Degen Tracker (Phase 2)
+Multichain wallet + PnL with degen-focused insights (rugs survived, gas burned, comeback trades).
+- **Pro features:** Unlockable with MIAB.
 
-- 🔨 Building MIAB smart contract ecosystem
-- 🧪 Improving test coverage
-- 📚 Learning advanced Solidity patterns
-- 🔒 Studying contract security
+### ⚡ BUYBOT — Multichain Trade Assistant
+Scans fresh deploys and trends; lets users set rules/alerts and execute across chains.
+- **Subs/credits:** Settled in MIAB.
 
----
+### 🔍 On-Chain Researcher — Market Intelligence Hub
+Tracks deployers, whales, and upcoming launches; feeds discovery into MIABPAD.
+- **Access:** MIAB-gated tiers.
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-contact@miab.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@miab.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-@makeitallback-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-makeitallback-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-</div>
+> **Expansion Plan:** Keep **building new tools** and **acquiring useful dApps** to integrate MIAB as the default fee & access token across the stack.
 
 ---
 
-<div align="center">
+## 🔁 Token Flywheel
 
-### ⚡ Fun Fact
+**MIAB used for tools → Revenue → Buybacks + Treasury → Hire teams → Build/acquire more tools → More MIAB utility**
 
-I believe in **"Make It All Back"** - turning setbacks into comebacks! 🔥
-
-**From belief to build, from cope to creation** 💎
+- Buyers fuel launch.
+- Debase tests conviction.
+- Vaults define strategy.
+- Tools create real demand.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=makeitallback&color=blueviolet&style=flat-square)
+## 💠 Tokenomics (At a Glance)
 
-Made with ❤️ by [MIAB](https://github.com/makeitallback)
+| Property         | Value                                   |
+|------------------|-----------------------------------------|
+| Name             | Make It All Back (MIAB)                 |
+| Chain            | Monad                                   |
+| Decimals         | 18                                      |
+| Supply           | 100,000,000,000 MIAB                    |
+| Launch           | Bonding curve ➜ LP pairing              |
+| Debase           | ~0.00002%/block (≈ 4.32% / day)         |
+| Fee (Genesis)    | 1% (Builder Treasury / ops)             |
+| Vaults           | Sanctum / Rebirth / Builder (LP)        |
 
-⭐️ Star this profile to support!
+> **Sim (5 days from 100B):** ~19.9B MIAB disappear via decay; ratios remain balanced as LP decays too.
 
-</div>
+---
+
+## 🛠️ Getting Started
+
+```bash
+# (1) Read the docs
+open https://docs.miab.xyz
+
+# (2) Join the community
+open https://discord.gg/TODO
+
+# (3) Track progress / contribute
+git clone https://github.com/MIAB-Labs/miab
