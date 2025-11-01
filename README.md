@@ -4,7 +4,7 @@
 
 </div>
 
-# 🧩 MIAB (Make It All Back)
+# <span style="color: #00A700">MIAB (Make It All Back)</span>
 
 > *From belief to build. From cope to creation.*
 
@@ -19,17 +19,17 @@
 
 ---
 
-## 🌍 Overview
+## <span style="color: #00A700">Overview</span>
 
 **MIAB (Make It All Back)** is an experimental memecoin that blends **degen culture, AI innovation, and deflationary mechanics** into one living system.
 
-Built on BNB chain, MIAB is more than a token—it's a **community-funded builder engine**.
+Built on BNB chain, MIAB is more than a token—it's a <span style="color: #00A700">**community-funded builder engine**</span>.
 
 Each block decays its supply, but that decay fuels the next cycle of creation: funding new AI-powered degen tools, hiring, and expanding the ecosystem.
 
 ---
 
-## 🧠 The Cause
+## <span style="color: #00A700">The Cause</span>
 
 Everyone in crypto has said it once:
 
@@ -37,13 +37,13 @@ Everyone in crypto has said it once:
 
 MIAB turns that meme into a mission.
 
-It's an **on-chain builder experiment** powered by belief, burn, and rebirth.
+It's an <span style="color: #00A700">**on-chain builder experiment**</span> powered by belief, burn, and rebirth.
 
 Every purchase through the bonding curve contributes to the **Builder Treasury**, used to develop AI products for the degen world—from **buy bots**, to **alpha scanners**, to **launchpads** and more.
 
 ---
 
-## 🚀 Launch Phases
+## <span style="color: #00A700">Launch Phases</span>
 
 ### Phase 1 — The Spark
 
@@ -71,13 +71,13 @@ Supply vanishes — belief gets tested — but the ecosystem continues to evolve
 
 ---
 
-## 🧩 Bonding Curve Governance
+## <span style="color: #00A700">Bonding Curve Governance</span>
 
 Unlike typical bonding curves, MIAB's curve is **governed by the community**.
 
 Selling during the Genesis phase is controlled through **on-chain voting**.
 
-### 🗳️ Voting Logic
+### <span style="color: #00A700">Voting Logic</span>
 
 - **Eligibility:** Only wallets that have purchased MIAB on the bonding curve can vote.
 - **Power:** 1 vote per 1,000,000 MIAB bought.
@@ -90,7 +90,7 @@ This system ensures that only true believers influence the curve's lifecycle.
 
 ---
 
-## ⚙️ The Debase Engine
+## <span style="color: #00A700">The Debase Engine</span>
 
 The **Debase Engine** is the mathematical heart of MIAB — a continuous entropy loop that shrinks supply at the block level.
 
@@ -105,7 +105,7 @@ All balances decay proportionally — wallets, LPs, vaults, and treasury alike.
 
 **No exceptions. Everyone fades together.**
 
-### 📉 4.32% Daily Debase Simulation
+### <span style="color: #00A700">4.32% Daily Debase Simulation</span>
 
 | **Day** | **Starting Supply** | **Tokens Vanished** |
 |---------|---------------------|---------------------|
@@ -119,7 +119,7 @@ After five days, nearly **200M MIAB** vanish — the proof of on-chain decay.
 
 ---
 
-## 🏦 Vault Mechanics
+## <span style="color: #00A700">Vault Mechanics</span>
 
 The **Vaults** represent three philosophies of faith and participation:
 
@@ -127,7 +127,7 @@ Protection, Rebirth, and Creation.
 
 ---
 
-### 🔒 1. Protector Vault - The Protected Vault
+### <span style="color: #00A700">1. Protector Vault - The Protected Vault</span>
 
 - Deposit MIAB, withdraw the same after a 24h lock.
 - Tokens here are **immune to decay**.
@@ -137,7 +137,7 @@ Protection, Rebirth, and Creation.
 
 ---
 
-### 🔁 2. Rebirth Vault - Staking Through Decay
+### <span style="color: #00A700">2. Rebirth Vault - Staking Through Decay</span>
 
 - Stake MIAB directly into the Decay Engine.
 - Tokens decay, but you earn **10% of the daily burned supply** as reborn MIAB.
@@ -147,7 +147,7 @@ Protection, Rebirth, and Creation.
 
 ---
 
-### 💧 3. Builder Vault — LP + Ecosystem Vault
+### <span style="color: #00A700">3. Builder Vault — LP + Ecosystem Vault</span>
 
 - LP stakers contribute to market stability.
 - They earn from a **30% daily rebirth pool**, derived from decayed supply.
@@ -157,7 +157,7 @@ Protection, Rebirth, and Creation.
 
 ---
 
-## 🧰 MIAB Tool Ecosystem
+## <span style="color: #00A700">MIAB Tool Ecosystem</span>
 
 Every block, vault, and transaction in MIAB fuels a **builder economy**, an expanding network of products and dApps that give the token real, growing utility.
 
@@ -171,7 +171,7 @@ All revenue generated from products under the MIAB banner flows back into the sy
 
 ---
 
-### 🪙 1. MIABPAD — DAO Launchpad (Phase 1)
+### <span style="color: #00A700">1. MIABPAD — DAO Launchpad (Phase 1)</span>
 
 The first product in the MIAB ecosystem — a **community-governed launchpad** where projects are reviewed, voted, and launched by holders.
 
@@ -179,7 +179,7 @@ The first product in the MIAB ecosystem — a **community-governed launchpad** w
 - Liquidity pairing and automated listing
 - On-chain voting using MIAB governance power
 
-💸 **Revenue Flow:**
+<span style="color: #00A700">**Revenue Flow:**</span>
 
 Platform fees are used to **buy back MIAB** and strengthen liquidity, while a share of earnings goes into the **Builder Treasury** to fund future tools.
 
@@ -187,7 +187,7 @@ Platform fees are used to **buy back MIAB** and strengthen liquidity, while a sh
 
 ---
 
-### 📊 2. MIAB PORTFOLIO — Degen Tracker (Phase 2)
+### <span style="color: #00A700">2. MIAB PORTFOLIO — Degen Tracker (Phase 2)</span>
 
 A multichain portfolio dashboard built with attitude — tracking everything from profits and losses to your most rugged trades.
 
@@ -195,7 +195,7 @@ A multichain portfolio dashboard built with attitude — tracking everything fro
 - Custom insights and leaderboards
 - Token usage data integrated for future vault rewards
 
-💸 **Revenue Flow:**
+<span style="color: #00A700">**Revenue Flow:**</span>
 
 Premium access is payable in MIAB. Usage revenue contributes to **buybacks** and supports the next wave of builders.
 
@@ -203,7 +203,7 @@ Premium access is payable in MIAB. Usage revenue contributes to **buybacks** and
 
 ---
 
-### ⚡ 3. BUYBOT — Multichain Trade Assistant
+### <span style="color: #00A700">3. BUYBOT — Multichain Trade Assistant</span>
 
 An automated trading tool that scans new launches, detects stealth deploys, and executes instant buys based on holder-set conditions.
 
@@ -211,7 +211,7 @@ An automated trading tool that scans new launches, detects stealth deploys, and 
 - Custom alerts and filters
 - Subscription tiers settled in MIAB
 
-💸 **Revenue Flow:**
+<span style="color: #00A700">**Revenue Flow:**</span>
 
 All usage fees cycle into the Builder Treasury, reinforcing the **make-it-back loop.**
 
@@ -219,7 +219,7 @@ All usage fees cycle into the Builder Treasury, reinforcing the **make-it-back l
 
 ---
 
-### 🔍 4. On-Chain Researcher — Market Intelligence Hub
+### <span style="color: #00A700">4. On-Chain Researcher — Market Intelligence Hub</span>
 
 A research platform that uncovers upcoming launches, trending wallets, and early project signals — helping builders and traders stay ahead.
 
@@ -227,7 +227,7 @@ A research platform that uncovers upcoming launches, trending wallets, and early
 - Generates discovery feeds for MIABPAD launches
 - Subscription payable in MIAB
 
-💸 **Revenue Flow:**
+<span style="color: #00A700">**Revenue Flow:**</span>
 
 Data-access fees return to the treasury and fund ecosystem growth.
 
@@ -235,7 +235,7 @@ Data-access fees return to the treasury and fund ecosystem growth.
 
 ---
 
-### 🌐 Continuous Expansion
+### <span style="color: #00A700">Continuous Expansion</span>
 
 The MIAB ecosystem doesn't end with these products — it evolves continuously through **new tool development, partnerships, and acquisitions**.
 
@@ -251,7 +251,7 @@ Each new addition increases token velocity and reinforces the **flywheel of valu
 
 ---
 
-## 🔁 The MIAB Flywheel
+## <span style="color: #00A700">The MIAB Flywheel</span>
 
 1. **Buyers** join through the bonding curve.
 2. **Fees & decay** feed the **Builder Treasury**.
@@ -263,7 +263,7 @@ Each new addition increases token velocity and reinforces the **flywheel of valu
 
 ---
 
-## 💠 Tokenomics
+## <span style="color: #00A700">Tokenomics</span>
 
 | **Property** | **Value** |
 |--------------|-----------|
@@ -275,7 +275,7 @@ Each new addition increases token velocity and reinforces the **flywheel of valu
 | **Debase Rate** | 0.00002% per block (~4.32% daily) |
 | **Vaults** | Protector, Rebirth, Builder |
 
-### 🧱 Game Theory
+### <span style="color: #00A700">Game Theory</span>
 
 MIAB isn't just a market — it's a **belief engine**.
 
@@ -289,7 +289,7 @@ This cyclical mechanic creates **balance**: as token count shrinks, LP and vault
 
 ---
 
-## 🧑‍💻 Builder Treasury
+## <span style="color: #00A700">Builder Treasury</span>
 
 All MIAB collected from:
 
@@ -305,7 +305,7 @@ The treasury operates transparently, with proposals voted by MIAB holders.
 
 ---
 
-## ⚠️ Disclaimer
+## <span style="color: #00A700">Disclaimer</span>
 
 **MIAB (Make It All Back)** is an experimental, community-driven protocol exploring belief, decay, and AI-driven creation.
 
@@ -319,11 +319,11 @@ Revenue is used solely to expand the builder ecosystem and fund new AI developme
 
 ---
 
-## 🧬 In One Line
+## <span style="color: #00A700">In One Line</span>
 
 > MIAB turns belief into code, decay into creation, and every degen's dream to
 > 
-> ***make it all back***
+> <span style="color: #00A700">***make it all back***</span>
 
 ---
 
@@ -331,6 +331,6 @@ Revenue is used solely to expand the builder ecosystem and fund new AI developme
 
 **🌐 [Website](https://miab.fun)** • **🐦 [X (Twitter)](https://x.com/miabprotocol)** • **💬 [Discord](https://discord.gg/GJPf9DfUHe)** • **💻 [GitHub](https://github.com/makeitallback)**
 
-Made with 💚 by the MIAB community
+Made with <span style="color: #00A700">💚</span> by the MIAB community
 
 </div>
