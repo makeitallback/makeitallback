@@ -1,3 +1,9 @@
+<div align="center">
+
+![MIAB Protocol Banner](https://pbs.twimg.com/profile_banners/1983210526005166080/1761669427/1500x500)
+
+</div>
+
 # 🧩 MIAB (Make It All Back)
 
 > *From belief to build. From cope to creation.*
